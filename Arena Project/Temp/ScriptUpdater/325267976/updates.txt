@@ -1,0 +1,2 @@
+Temp/ScriptUpdater/325267976/2074390272_SwooshTest.cs => Assets/MeleeWeaponTrail/Example/Scripts/SwooshTest.cs
+Temp/ScriptUpdater/325267976/1192892201_MeleeWeaponTrail.cs => Assets/MeleeWeaponTrail/Scripts/MeleeWeaponTrail.cs

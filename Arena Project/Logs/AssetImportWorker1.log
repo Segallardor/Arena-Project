@@ -182,3 +182,145 @@ Received Import Request.
   path: Packages/com.unity.editorcoroutines/package.json
   artifactKey: Guid(6428ca6f30e71ee4dbea7e1d0787cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.editorcoroutines/package.json using Guid(6428ca6f30e71ee4dbea7e1d0787cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09ec15c09bb4767b92c14d9ec7e7dbb') in 0.001575 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001630 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x285f43000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/JoCornejoFlores/Documents/GitHub/Arena-Project/Arena Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/JoCornejoFlores/Documents/GitHub/Arena-Project/Arena Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Domain Reload Profiling:
+	ReloadAssembly (771ms)
+		BeginReloadAssembly (106ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (597ms)
+			LoadAssemblies (48ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (261ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (220ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (41ms)
+				ProcessInitializeOnLoadAttributes (145ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3340 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (71.2 KB). Loaded Objects now: 3808.
+Memory consumption went from 234.7 MB to 234.6 MB.
+Total: 2.244250 ms (FindLiveObjects: 0.126375 ms CreateObjectMapping: 0.042750 ms MarkObjects: 2.009291 ms  DeleteObjects: 0.065334 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1513.330491 seconds.
+  path: Assets/MeleeWeaponTrail/Example/Prefabs/SwooshColorChange.prefab
+  artifactKey: Guid(77e59703e0eb3f542a8eab68152a9fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeleeWeaponTrail/Example/Prefabs/SwooshColorChange.prefab using Guid(77e59703e0eb3f542a8eab68152a9fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15169d3663ac888a3cdbf67d03e0e05e') in 0.320034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.918434 seconds.
+  path: Assets/MeleeWeaponTrail/Example/Textures/Swoosh01.png
+  artifactKey: Guid(05284a03916175a49a350e9085935f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeleeWeaponTrail/Example/Textures/Swoosh01.png using Guid(05284a03916175a49a350e9085935f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901aa5b017781d124adbd81bf6d438e5') in 0.362278 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001364 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x1703df000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/JoCornejoFlores/Documents/GitHub/Arena-Project/Arena Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/JoCornejoFlores/Documents/GitHub/Arena-Project/Arena Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.660 seconds
+Domain Reload Profiling:
+	ReloadAssembly (660ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (491ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (199ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (194ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (39ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3335 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (94.7 KB). Loaded Objects now: 3816.
+Memory consumption went from 260.7 MB to 260.6 MB.
+Total: 2.226792 ms (FindLiveObjects: 0.113333 ms CreateObjectMapping: 0.039916 ms MarkObjects: 2.000750 ms  DeleteObjects: 0.072250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 111.392715 seconds.
+  path: Assets/Low-Poly Weapons/Models/Arrow_Piercing.fbx
+  artifactKey: Guid(a6dbb2c6393664ec3bfff79ef7bcad30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low-Poly Weapons/Models/Arrow_Piercing.fbx using Guid(a6dbb2c6393664ec3bfff79ef7bcad30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea781554dd3c3bd7b2a6bd4676fa116') in 0.294329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Low-Poly Weapons/Models/Grenade_Sulfur.fbx
+  artifactKey: Guid(11e0aa3611e3840ecb8a4f54e9b9634d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low-Poly Weapons/Models/Grenade_Sulfur.fbx using Guid(11e0aa3611e3840ecb8a4f54e9b9634d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659b91002b999d2e4f81524b65ce2c89') in 0.012430 seconds 
